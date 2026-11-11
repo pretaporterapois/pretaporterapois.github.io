@@ -484,3 +484,9 @@ footer .legal{display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px;
 [hidden]{display:none!important}
 .perk b,.perk small{display:block}.perk small{margin-top:2px}
 @media (max-width:900px){.toast{bottom:96px}}
+
+/* una finestra chiusa (e il suo sfondo) non deve mai intercettare i clic */
+.modal:not(.on),.modal:not(.on) *{pointer-events:none!important}
+.modal>.scrim{z-index:0}.modal .box{z-index:1}
+footer li a{display:block;padding:3px 0}
+footer .dots-row a{position:relative}footer .dots-row a::after{content:"";position:absolute;inset:-12px}
