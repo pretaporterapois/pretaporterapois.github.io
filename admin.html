@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow">
+<title>Area riservata · Prêt à Porter à Pois</title>
+<meta name="theme-color" content="#110A0D">
+<link rel="icon" href="img/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Allura&family=Montserrat:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/home.css?v=1794434270">
+<link rel="stylesheet" href="css/admin.css?v=1794434270">
+</head>
+<body class="adm">
+
+<!-- accesso -->
+<section class="login" id="login" hidden>
+  <div class="lbox">
+    <img src="img/logo.png" alt="" class="llogo">
+    <span class="eyebrow">Area riservata</span>
+    <h1 id="lTitle">Bentornata</h1>
+    <p id="lText">Inserisci la password per gestire negozio, magazzino e contenuti.</p>
+    <form id="lForm">
+      <input type="password" id="lPw" autocomplete="current-password" placeholder="Password" required minlength="6">
+      <input type="password" id="lPw2" autocomplete="new-password" placeholder="Ripeti la password" minlength="6" hidden>
+      <button class="btn rosa"><span id="lBtn">Entra</span><span class="bi"><svg class="ico" viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></button>
+      <p class="lerr" id="lErr" hidden></p>
+    </form>
+    <a class="back" href="index.html">← Torna al sito</a>
+  </div>
+</section>
+
+<!-- applicazione -->
+<div class="app" id="app" hidden>
+  <aside class="side" id="side">
+    <a class="sbrand" href="index.html" target="_blank" rel="noopener"><img src="img/logo.png" alt=""><span><b>Prêt à Porter à Pois</b><small>Area riservata</small></span></a>
+    <nav id="nav"></nav>
+    <div class="sfoot">
+      <div class="mode"><i></i><span><b>Modalità prova</b>I dati restano in questo browser</span></div>
+      <a class="sitelink" href="index.html" target="_blank" rel="noopener">Apri il sito ↗</a>
+      <button class="logout" id="logout">Esci</button>
+    </div>
+  </aside>
+  <div class="sscrim" id="sscrim"></div>
+  <main class="main">
+    <header class="mtop"><button class="ic burger" id="burger" aria-label="Menu"></button><h1 id="vTitle"></h1><div class="mact" id="mact"></div></header>
+    <div class="view" id="view"></div>
+  </main>
+</div>
+
+<!-- editor del capo -->
+<div class="scrim" id="escrim"></div>
+<aside class="editor" id="editor" aria-label="Modifica capo"></aside>
+
+<!-- conferma -->
+<div class="modal" id="confirm" role="dialog"><div class="scrim on" data-no></div><div class="box"><h3 id="cfT"></h3><p id="cfP" style="color:var(--muted);margin-top:8px"></p><div class="cfa"><button class="btn ghost sm" data-no>Annulla</button><button class="btn rosa sm" id="cfYes"><span>Conferma</span><span class="bi"><svg class="ico" viewBox="0 0 24 24"><path d="M5 12l5 5 9-10"/></svg></span></button></div></div></div>
+
+<input type="file" id="fileCam" accept="image/*" capture="environment" hidden>
+<input type="file" id="fileGal" accept="image/*" multiple hidden>
+<div class="toast" id="toast"></div>
+
+<script src="js/foto.js?v=1794434270"></script>
+<script src="js/db.js?v=1794434270"></script>
+<script src="js/inventario.js?v=1794434270"></script>
+<script src="js/admin.js?v=1794434270"></script>
+</body>
+</html>

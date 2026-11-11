@@ -1,0 +1,5138 @@
+{
+"generato": "2026-11-11",
+"modelli": [
+{
+"id": "is53620011-maglione-mezzo-collo-viscosa-riga-dav",
+"sku": "IS53620011",
+"nome": "Maglione mezzo collo viscosa riga dav",
+"categoria": "maglieria",
+"prezzo": 39.0,
+"prezzo_min": 27.0,
+"fornitore": "IS",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "is53620011-maglione-mezzo-collo-viscosa-riga-dav-1",
+"colore": "Grigio",
+"hex": [
+"#9A9A9A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "is53620011-maglione-mezzo-collo-viscosa-riga-dav-2",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "is53620011-maglione-mezzo-collo-viscosa-riga-dav-3",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "is51790013-maglione-mezzo-collo-manica-pall",
+"sku": "IS51790013",
+"nome": "Maglione mezzo collo manica pall",
+"categoria": "maglieria",
+"prezzo": 43.0,
+"prezzo_min": 29.0,
+"fornitore": "IS",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "is51790013-maglione-mezzo-collo-manica-pall-1",
+"colore": "Celeste",
+"hex": [
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "is51790013-maglione-mezzo-collo-manica-pall-2",
+"colore": "Bordeaux",
+"hex": [
+"#6D1A2A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "is517800010-t-shirt-manica-lunga-righe",
+"sku": "IS517800010",
+"nome": "T-shirt manica lunga righe",
+"categoria": "maglieria",
+"prezzo": 29.0,
+"prezzo_min": 23.0,
+"fornitore": "IS",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "is517800010-t-shirt-manica-lunga-righe-1",
+"colore": "Marrone / Rosa",
+"hex": [
+"#7A5236",
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "is517800010-t-shirt-manica-lunga-righe-2",
+"colore": "Marrone / Rosa",
+"hex": [
+"#7A5236",
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "is517800010-t-shirt-manica-lunga-righe-3",
+"colore": "Rosa / Marrone",
+"hex": [
+"#F2B5BE",
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "is517800010-t-shirt-manica-lunga-righe-4",
+"colore": "Rosa / Marrone",
+"hex": [
+"#F2B5BE",
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "is970250014-pantalone-pall-felpato-pesante",
+"sku": "IS970250014",
+"nome": "Pantalone pall felpato pesante",
+"categoria": "pantaloni",
+"prezzo": 42.0,
+"prezzo_min": 29.0,
+"fornitore": "IS",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "is970250014-pantalone-pall-felpato-pesante-1",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "is970250014-pantalone-pall-felpato-pesante-2",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "is970250014-pantalone-pall-felpato-pesante-3",
+"colore": "Bordeaux",
+"hex": [
+"#6D1A2A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "is970250014-pantalone-pall-felpato-pesante-4",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "isbj0030013-maglione-con-a-peloso",
+"sku": "ISBJ0030013",
+"nome": "Maglione con (a peloso",
+"categoria": "maglieria",
+"prezzo": 43.0,
+"prezzo_min": 29.0,
+"fornitore": "IS",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "isbj0030013-maglione-con-a-peloso-1",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "isbj0030013-maglione-con-a-peloso-2",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "isbj0030013-maglione-con-a-peloso-3",
+"colore": "Celeste",
+"hex": [
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "isbj0030013-maglione-con-a-peloso-4",
+"colore": "Celeste",
+"hex": [
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "is512550020-cardigan-zip-righe",
+"sku": "IS512550020",
+"nome": "Cardigan zip righe",
+"categoria": "maglieria",
+"prezzo": 55.0,
+"prezzo_min": 38.0,
+"fornitore": "IS",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "is512550020-cardigan-zip-righe-1",
+"colore": "Rosa / Tortora",
+"hex": [
+"#F2B5BE",
+"#A89A8C"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "is512550020-cardigan-zip-righe-2",
+"colore": "Rosa / Tortora",
+"hex": [
+"#F2B5BE",
+"#A89A8C"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "is512550020-cardigan-zip-righe-3",
+"colore": "Marrone / Tortora",
+"hex": [
+"#7A5236",
+"#A89A8C"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "is512550020-cardigan-zip-righe-4",
+"colore": "Marrone / Tortora",
+"hex": [
+"#7A5236",
+"#A89A8C"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "is512550020-cardigan-zip-righe-5",
+"colore": "Lilla / Marrone",
+"hex": [
+"#C8B2DC",
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "is512550020-cardigan-zip-righe-6",
+"colore": "Lilla / Marrone",
+"hex": [
+"#C8B2DC",
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "is319590021-top-cardigan-lana-oversize-riga",
+"sku": "IS319590021",
+"nome": "Top+cardigan lana oversize riga",
+"categoria": "maglieria",
+"prezzo": 59.0,
+"prezzo_min": 42.0,
+"fornitore": "IS",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "is319590021-top-cardigan-lana-oversize-riga-1",
+"colore": "Rosa / Fucsia / Marrone",
+"hex": [
+"#F2B5BE",
+"#D63C8C",
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "is14930010-gonna-scozzese-quadri",
+"sku": "IS14930010",
+"nome": "Gonna scozzese quadri",
+"categoria": "abiti",
+"prezzo": 39.0,
+"prezzo_min": 23.0,
+"fornitore": "IS",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "is14930010-gonna-scozzese-quadri-1",
+"colore": "Blu / Celeste / Marrone",
+"hex": [
+"#22386B",
+"#A9CBE8",
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "is14930010-gonna-scozzese-quadri-2",
+"colore": "Marrone / Beige",
+"hex": [
+"#7A5236",
+"#D9C3A5"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "is14930010-gonna-scozzese",
+"sku": "IS14930010",
+"nome": "Gonna scozzese",
+"categoria": "abiti",
+"prezzo": 39.0,
+"prezzo_min": 23.0,
+"fornitore": "IS",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "is14930010-gonna-scozzese-1",
+"colore": "Blu / Celeste / Marrone",
+"hex": [
+"#22386B",
+"#A9CBE8",
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "is516330015-felpa-tuta-pesante",
+"sku": "IS516330015",
+"nome": "Felpa tuta pesante",
+"categoria": "felpe",
+"prezzo": 45.0,
+"prezzo_min": 30.0,
+"fornitore": "IS",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "is516330015-felpa-tuta-pesante-1",
+"colore": "Marrone / Celeste",
+"hex": [
+"#7A5236",
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "is516330015-felpa-tuta-pesante-2",
+"colore": "Marrone / Celeste",
+"hex": [
+"#7A5236",
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "is516350014-pantalone-tuta-palazzo-pesante",
+"sku": "IS516350014",
+"nome": "Pantalone tuta palazzo pesante",
+"categoria": "pantaloni",
+"prezzo": 42.0,
+"prezzo_min": 29.0,
+"fornitore": "IS",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "is516350014-pantalone-tuta-palazzo-pesante-1",
+"colore": "Marrone / Celeste",
+"hex": [
+"#7A5236",
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "is516350014-pantalone-tuta-palazzo-pesante-2",
+"colore": "Panna / Beige",
+"hex": [
+"#F4EEDF",
+"#D9C3A5"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "as252640033-piumino-nero-corto-con-cappuccio-pelliccia",
+"sku": "AS252640033",
+"nome": "Piumino nero corto con cappuccio pelliccia",
+"categoria": "capispalla",
+"prezzo": 89.0,
+"prezzo_min": 44.5,
+"fornitore": "AS",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "as252640033-piumino-nero-corto-con-cappuccio-pelliccia-1",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": "S",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as252640033-piumino-nero-corto-con-cappuccio-pelliccia-2",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": "M",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as252640033-piumino-nero-corto-con-cappuccio-pelliccia-3",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": "L",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as252640033-piumino-nero-corto-con-cappuccio-pelliccia-4",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": "S",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as252640033-piumino-nero-corto-con-cappuccio-pelliccia-5",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": "M",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as252640033-piumino-nero-corto-con-cappuccio-pelliccia-6",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": "L",
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "as242080039-cappottino-interno-piumino",
+"sku": "AS242080039",
+"nome": "Cappottino interno piumino",
+"categoria": "capispalla",
+"prezzo": 129.0,
+"prezzo_min": 64.5,
+"fornitore": "AS",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "as242080039-cappottino-interno-piumino-1",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": "S",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as242080039-cappottino-interno-piumino-2",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": "M",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as242080039-cappottino-interno-piumino-3",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": "L",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as242080039-cappottino-interno-piumino-4",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": "XL",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as242080039-cappottino-interno-piumino-5",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": "XXL",
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "as92400020-jeans-palazzo-oversize",
+"sku": "AS92400020",
+"nome": "Jeans palazzo oversize",
+"categoria": "jeans",
+"prezzo": 59.0,
+"prezzo_min": 39.0,
+"fornitore": "AS",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "as92400020-jeans-palazzo-oversize-1",
+"colore": "Beige",
+"hex": [
+"#D9C3A5"
+],
+"taglia": "XS",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as92400020-jeans-palazzo-oversize-2",
+"colore": "Beige",
+"hex": [
+"#D9C3A5"
+],
+"taglia": "M",
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "as80660020-jeans-palazzo-beige-classic",
+"sku": "AS80660020",
+"nome": "Jeans palazzo beige classic",
+"categoria": "jeans",
+"prezzo": 59.0,
+"prezzo_min": 39.0,
+"fornitore": "AS",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "as80660020-jeans-palazzo-beige-classic-1",
+"colore": null,
+"hex": null,
+"taglia": "S",
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "as92110020-jeans-palazzo-beige-classic",
+"sku": "AS92110020",
+"nome": "Jeans palazzo beige classic",
+"categoria": "jeans",
+"prezzo": 59.0,
+"prezzo_min": 39.0,
+"fornitore": null,
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "as92110020-jeans-palazzo-beige-classic-1",
+"colore": null,
+"hex": null,
+"taglia": "S",
+"stato": "disponibile",
+"negozio": null
+}
+]
+},
+{
+"id": "tf883560012-maglioncino-fino-fiocco-collo",
+"sku": "TF883560012",
+"nome": "Maglioncino fino fiocco collo",
+"categoria": "maglieria",
+"prezzo": 35.0,
+"prezzo_min": null,
+"fornitore": "TF",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "tf883560012-maglioncino-fino-fiocco-collo-1",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "tf883560012-maglioncino-fino-fiocco-collo-2",
+"colore": "Blu",
+"hex": [
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "tf883560012-maglioncino-fino-fiocco-collo-3",
+"colore": "Grigio",
+"hex": [
+"#9A9A9A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "tf883560012-maglioncino-fino-fiocco-collo-4",
+"colore": "Panna",
+"hex": [
+"#F4EEDF"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "tf105530017-pantalone-jeans-ballon",
+"sku": "TF105530017",
+"nome": "Pantalone jeans ballon",
+"categoria": "pantaloni",
+"prezzo": 49.0,
+"prezzo_min": null,
+"fornitore": "TF",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "tf105530017-pantalone-jeans-ballon-1",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "tf105530017-pantalone-jeans-ballon-2",
+"colore": "Celeste",
+"hex": [
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "tf256230023-giacca-ecop-collo-arricciato-lucida",
+"sku": "TF256230023",
+"nome": "Giacca ecop collo arricciato lucida",
+"categoria": "giacche",
+"prezzo": 69.0,
+"prezzo_min": null,
+"fornitore": "TF",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "tf256230023-giacca-ecop-collo-arricciato-lucida-1",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "tf256230023-giacca-ecop-collo-arricciato-lucida-2",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "tf280770020-pantalone-ecop-palazzo-lucido",
+"sku": "TF280770020",
+"nome": "Pantalone ecop palazzo lucido",
+"categoria": "pantaloni",
+"prezzo": 49.0,
+"prezzo_min": null,
+"fornitore": "TF",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "tf280770020-pantalone-ecop-palazzo-lucido-1",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl12150012-camicia-ml-cuore-ricam-righe",
+"sku": "GL12150012",
+"nome": "Camicia ml cuore ricam righe",
+"categoria": "camicie",
+"prezzo": 33.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl12150012-camicia-ml-cuore-ricam-righe-1",
+"colore": "Bianco / Rosa",
+"hex": [
+"#FFFFFF",
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl12150012-camicia-ml-cuore-ricam-righe-2",
+"colore": "Bianco / Blu",
+"hex": [
+"#FFFFFF",
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl95550017-felpa-oversize-liscia-sotto-camicia",
+"sku": "GL95550017",
+"nome": "Felpa oversize liscia sotto camicia",
+"categoria": "felpe",
+"prezzo": 49.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl95550017-felpa-oversize-liscia-sotto-camicia-1",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl95550017-felpa-oversize-liscia-sotto-camicia-2",
+"colore": "Grigio",
+"hex": [
+"#9A9A9A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl260760013-camicia-cotone-righe-rosa",
+"sku": "GL260760013",
+"nome": "Camicia cotone righe rosa /",
+"categoria": "camicie",
+"prezzo": 35.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl260760013-camicia-cotone-righe-rosa-1",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl260760013-camicia-cotone-righe",
+"sku": "GL260760013",
+"nome": "Camicia cotone righe",
+"categoria": "camicie",
+"prezzo": 35.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl260760013-camicia-cotone-righe-1",
+"colore": "Celeste / Marrone",
+"hex": [
+"#A9CBE8",
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl260760013-camicia-cotone-righe-bca",
+"sku": "GL260760013",
+"nome": "Camicia cotone righe bca /",
+"categoria": "camicie",
+"prezzo": 35.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl260760013-camicia-cotone-righe-bca-1",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gla350016-camicia-scozzese",
+"sku": "GLA350016",
+"nome": "Camicia scozzese",
+"categoria": "camicie",
+"prezzo": 39.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gla350016-camicia-scozzese-1",
+"colore": "Lilla / Beige",
+"hex": [
+"#C8B2DC",
+"#D9C3A5"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl362200019-jeans-palazzo",
+"sku": "GL362200019",
+"nome": "Jeans palazzo",
+"categoria": "jeans",
+"prezzo": 55.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl362200019-jeans-palazzo-1",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": "XS",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl362200019-jeans-palazzo-2",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": "M",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl362200019-jeans-palazzo-3",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": "L",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl362200019-jeans-palazzo-4",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": "XL",
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl93320021-jeans-baggy-leggero",
+"sku": "GL93320021",
+"nome": "Jeans baggy leggero",
+"categoria": "jeans",
+"prezzo": 55.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl93320021-jeans-baggy-leggero-1",
+"colore": null,
+"hex": null,
+"taglia": "S",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl93320021-jeans-baggy-leggero-2",
+"colore": null,
+"hex": null,
+"taglia": "M",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl93320021-jeans-baggy-leggero-3",
+"colore": null,
+"hex": null,
+"taglia": "L",
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl61420021-jeans-palazzo-lavaggio-medio",
+"sku": "GL61420021",
+"nome": "Jeans palazzo lavaggio medio",
+"categoria": "jeans",
+"prezzo": 55.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl61420021-jeans-palazzo-lavaggio-medio-1",
+"colore": null,
+"hex": null,
+"taglia": "S",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl61420021-jeans-palazzo-lavaggio-medio-2",
+"colore": null,
+"hex": null,
+"taglia": "M",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl61420021-jeans-palazzo-lavaggio-medio-3",
+"colore": null,
+"hex": null,
+"taglia": "L",
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl61570018-jeans-palazzo",
+"sku": "GL61570018",
+"nome": "Jeans palazzo",
+"categoria": "jeans",
+"prezzo": 49.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl61570018-jeans-palazzo-1",
+"colore": "Grigio",
+"hex": [
+"#9A9A9A"
+],
+"taglia": "S",
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl61430018-jeans-capri-stretto",
+"sku": "GL61430018",
+"nome": "Jeans capri stretto",
+"categoria": "jeans",
+"prezzo": 49.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl61430018-jeans-capri-stretto-1",
+"colore": "Grigio",
+"hex": [
+"#9A9A9A"
+],
+"taglia": "M",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl61430018-jeans-capri-stretto-2",
+"colore": "Grigio",
+"hex": [
+"#9A9A9A"
+],
+"taglia": "L",
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl218080007-cashmerina-collo-barca",
+"sku": "GL218080007",
+"nome": "Cashmerina collo barca",
+"categoria": "maglieria",
+"prezzo": 18.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl218080007-cashmerina-collo-barca-1",
+"colore": "Bordeaux",
+"hex": [
+"#6D1A2A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl218080007-cashmerina-collo-barca-2",
+"colore": "Bordeaux",
+"hex": [
+"#6D1A2A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl218080007-cashmerina-collo-barca-3",
+"colore": "Celeste",
+"hex": [
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl218080007-cashmerina-collo-barca-4",
+"colore": "Celeste",
+"hex": [
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl218080007-cashmerina-collo-barca-5",
+"colore": "Giallo",
+"hex": [
+"#F2D16B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl218080007-cashmerina-collo-barca-6",
+"colore": "Giallo",
+"hex": [
+"#F2D16B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl218080007-cashmerina-collo-barca-7",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl218080007-cashmerina-collo-barca-8",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl218080007-cashmerina-collo-barca-9",
+"colore": "Giallo",
+"hex": [
+"#F2D16B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl218080007-cashmerina-collo-barca-10",
+"colore": "Giallo",
+"hex": [
+"#F2D16B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl2426700011-pantalone-tuta-liscio-oversize",
+"sku": "GL2426700011",
+"nome": "Pantalone tuta liscio oversize",
+"categoria": "pantaloni",
+"prezzo": 33.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl2426700011-pantalone-tuta-liscio-oversize-1",
+"colore": "Burro",
+"hex": [
+"#F3E3B0"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl2426700011-pantalone-tuta-liscio-oversize-2",
+"colore": "Burro",
+"hex": [
+"#F3E3B0"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl242650009-giacchino-corto-con-tasche-dav-liscio",
+"sku": "GL242650009",
+"nome": "Giacchino corto con tasche dav liscio",
+"categoria": "giacche",
+"prezzo": 27.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl242650009-giacchino-corto-con-tasche-dav-liscio-1",
+"colore": "Burro",
+"hex": [
+"#F3E3B0"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl250270011-giacca-felpa-oversize-liscia",
+"sku": "GL250270011",
+"nome": "Giacca felpa oversize liscia",
+"categoria": "giacche",
+"prezzo": 33.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl250270011-giacca-felpa-oversize-liscia-1",
+"colore": "Burro",
+"hex": [
+"#F3E3B0"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl968180018-cappottino-neoprene-bottoni-dorati",
+"sku": "GL968180018",
+"nome": "Cappottino neoprene bottoni dorati",
+"categoria": "capispalla",
+"prezzo": 55.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl968180018-cappottino-neoprene-bottoni-dorati-1",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl571240011-vestitino-bottoni-dav-pieghe-laterale",
+"sku": "GL571240011",
+"nome": "Vestitino bottoni dav pieghe laterale",
+"categoria": "abiti",
+"prezzo": 35.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl571240011-vestitino-bottoni-dav-pieghe-laterale-1",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": "M",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl571240011-vestitino-bottoni-dav-pieghe-laterale-2",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": "L",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl571240011-vestitino-bottoni-dav-pieghe-laterale-3",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": "S",
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl183420011-pantalone-baggy-tess-classico",
+"sku": "GL183420011",
+"nome": "Pantalone baggy tess classico",
+"categoria": "pantaloni",
+"prezzo": 35.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl183420011-pantalone-baggy-tess-classico-1",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl183420011-pantalone-baggy-tess-classico-2",
+"colore": "Grigio",
+"hex": [
+"#9A9A9A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl180560011-pantalone-palazzo-tess-classico",
+"sku": "GL180560011",
+"nome": "Pantalone palazzo tess classico",
+"categoria": "pantaloni",
+"prezzo": 35.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl180560011-pantalone-palazzo-tess-classico-1",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl180560011-pantalone-palazzo-tess-classico-2",
+"colore": "Grigio",
+"hex": [
+"#9A9A9A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "tf2788-28140021-tuta-panta-baggy-felpa-cravatta-liscio",
+"sku": "TF2788.28140021",
+"nome": "Tuta panta baggy + felpa cravatta liscio",
+"categoria": "completi",
+"prezzo": 59.0,
+"prezzo_min": null,
+"fornitore": "TF",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "tf2788-28140021-tuta-panta-baggy-felpa-cravatta-liscio-1",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "tf2788-28140021-tuta-panta-baggy-felpa-cravatta-liscio-2",
+"colore": "Blu",
+"hex": [
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "tf2010600016-cardigan",
+"sku": "TF2010600016",
+"nome": "Cardigan",
+"categoria": "maglieria",
+"prezzo": null,
+"prezzo_min": null,
+"fornitore": null,
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "tf2010600016-cardigan-1",
+"colore": null,
+"hex": null,
+"taglia": null,
+"stato": "disponibile",
+"negozio": null
+}
+]
+},
+{
+"id": "gl2512140012-blazer-s-bottone-int-righe",
+"sku": "GL2512140012",
+"nome": "Blazer s/bottone int righe",
+"categoria": "giacche",
+"prezzo": 35.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl2512140012-blazer-s-bottone-int-righe-1",
+"colore": "Giallo",
+"hex": [
+"#F2D16B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl2412430014-blazer-doppio-petto",
+"sku": "GL2412430014",
+"nome": "Blazer doppio petto",
+"categoria": "giacche",
+"prezzo": 39.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl2412430014-blazer-doppio-petto-1",
+"colore": "Burro",
+"hex": [
+"#F3E3B0"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl2412430014-blazer-doppio-petto-2",
+"colore": "Bianco",
+"hex": [
+"#FFFFFF"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl87520011-maglione-filo-cotone-da-lunedi-a-dieta",
+"sku": "GL87520011",
+"nome": "Maglione filo cotone da lunedi a dieta",
+"categoria": "maglieria",
+"prezzo": 29.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl87520011-maglione-filo-cotone-da-lunedi-a-dieta-1",
+"colore": "Rosa / Fucsia",
+"hex": [
+"#F2B5BE",
+"#D63C8C"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl87520011-maglione-filo-cotone-da-lunedi-a-dieta-2",
+"colore": "Rosa / Fucsia",
+"hex": [
+"#F2B5BE",
+"#D63C8C"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl87520011-maglione-filo-cotone-da-lunedi-a-dieta-3",
+"colore": "Bianco / Rosa",
+"hex": [
+"#FFFFFF",
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl87520011-maglione-filo-cotone-da-lunedi-a-dieta-4",
+"colore": "Bianco / Rosa",
+"hex": [
+"#FFFFFF",
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl87520011-maglione-filo-cotone-da-lunedi-a-dieta-5",
+"colore": "Nero / Bianco",
+"hex": [
+"#1A1A1A",
+"#FFFFFF"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl87520011-maglione-filo-cotone-da-lunedi-a-dieta-6",
+"colore": "Nero / Bianco",
+"hex": [
+"#1A1A1A",
+"#FFFFFF"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl2164010014-blazer-interno-righe-con-bottoni",
+"sku": "GL2164010014",
+"nome": "Blazer interno righe con bottoni",
+"categoria": "giacche",
+"prezzo": 43.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl2164010014-blazer-interno-righe-con-bottoni-1",
+"colore": "Rosso",
+"hex": [
+"#C0262D"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl2164010014-blazer-interno-righe-con-bottoni-2",
+"colore": "Rosa / Cipria",
+"hex": [
+"#F2B5BE",
+"#F1C9C3"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl86010010-maglia-manica-corta-filo-righe-cuore-ricamato",
+"sku": "GL86010010",
+"nome": "Maglia manica corta filo righe cuore ricamato",
+"categoria": "maglieria",
+"prezzo": 29.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl86010010-maglia-manica-corta-filo-righe-cuore-ricamato-1",
+"colore": "Beige / Nero",
+"hex": [
+"#D9C3A5",
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl86010010-maglia-manica-corta-filo-righe-cuore-ricamato-2",
+"colore": "Beige / Nero",
+"hex": [
+"#D9C3A5",
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl86010010-maglia-manica-corta-filo-righe-cuore-ricamato-3",
+"colore": "Bianco / Blu",
+"hex": [
+"#FFFFFF",
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl86010010-maglia-manica-corta-filo-righe-cuore-ricamato-4",
+"colore": "Bianco / Blu",
+"hex": [
+"#FFFFFF",
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl86010010-maglia-manica-corta-filo-righe-cuore-ricamato-5",
+"colore": "Bianco / Beige",
+"hex": [
+"#FFFFFF",
+"#D9C3A5"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl86010010-maglia-manica-corta-filo-righe-cuore-ricamato-6",
+"colore": "Bianco / Beige",
+"hex": [
+"#FFFFFF",
+"#D9C3A5"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl35550015-camicia-scacchi",
+"sku": "GL35550015",
+"nome": "Camicia scacchi",
+"categoria": "camicie",
+"prezzo": 39.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl35550015-camicia-scacchi-1",
+"colore": "Rosa / Bianco",
+"hex": [
+"#F2B5BE",
+"#FFFFFF"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl35550015-camicia-scacchi-2",
+"colore": "Rosa / Beige",
+"hex": [
+"#F2B5BE",
+"#D9C3A5"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl35550015-camicia-scacchi-3",
+"colore": "Rosa / Celeste",
+"hex": [
+"#F2B5BE",
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl35550015-camicia-scacchi-4",
+"colore": "Giallo / Blu",
+"hex": [
+"#F2D16B",
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl13865-33290022-completo-maglia-svasata-con-rosa-bge-panta-palazzo-fant-pois",
+"sku": "GL13865.33290022",
+"nome": "Completo maglia svasata con rosa bge+ panta palazzo fant pois",
+"categoria": "completi",
+"prezzo": 59.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl13865-33290022-completo-maglia-svasata-con-rosa-bge-panta-palazzo-fant-pois-1",
+"colore": null,
+"hex": null,
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl5817710011-camiciona-righe-stretta-vita",
+"sku": "GL5817710011",
+"nome": "Camiciona righe stretta vita",
+"categoria": "camicie",
+"prezzo": 35.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl5817710011-camiciona-righe-stretta-vita-1",
+"colore": "Celeste / Blu",
+"hex": [
+"#A9CBE8",
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl5817710011-camiciona-righe-stretta-vita-2",
+"colore": "Celeste / Blu",
+"hex": [
+"#A9CBE8",
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl5817710011-camiciona-righe-stretta-vita-3",
+"colore": "Bianco / Celeste",
+"hex": [
+"#FFFFFF",
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl5817710011-camiciona-righe-stretta-vita-4",
+"colore": "Bianco / Celeste",
+"hex": [
+"#FFFFFF",
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl11110012-giacchetto-jeans-nero-con-strass",
+"sku": "GL11110012",
+"nome": "Giacchetto jeans nero con strass",
+"categoria": "giacche",
+"prezzo": 39.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl11110012-giacchetto-jeans-nero-con-strass-1",
+"colore": null,
+"hex": null,
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl11110012-giacchetto-jeans-nero-con-strass-2",
+"colore": null,
+"hex": null,
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl11110012-giacchetto-jeans-nero-con-strass-3",
+"colore": null,
+"hex": null,
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl11110012-giacchetto-jeans-nero-con-strass-4",
+"colore": null,
+"hex": null,
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl3095090010-camicia-raso-bottoni-dietro-rosa",
+"sku": "GL3095090010",
+"nome": "Camicia raso bottoni dietro rosa /",
+"categoria": "camicie",
+"prezzo": 29.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl3095090010-camicia-raso-bottoni-dietro-rosa-1",
+"colore": "Verde",
+"hex": [
+"#5B6340"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl3095090010-camicia-raso-bottoni-dietro-rosa-2",
+"colore": "Verde",
+"hex": [
+"#5B6340"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl968180017-cappottino-neoprene-3-4",
+"sku": "GL968180017",
+"nome": "Cappottino neoprene 3/4",
+"categoria": "capispalla",
+"prezzo": 49.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl968180017-cappottino-neoprene-3-4-1",
+"colore": "Celeste",
+"hex": [
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl968180017-cappottino-neoprene-3-4-2",
+"colore": "Beige",
+"hex": [
+"#D9C3A5"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl16290030-jeans-palazzo-tasca-dietro-rosa-strass",
+"sku": "GL16290030",
+"nome": "Jeans palazzo tasca dietro rosa strass",
+"categoria": "jeans",
+"prezzo": 59.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl16290030-jeans-palazzo-tasca-dietro-rosa-strass-1",
+"colore": null,
+"hex": null,
+"taglia": "XS",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl16290030-jeans-palazzo-tasca-dietro-rosa-strass-2",
+"colore": null,
+"hex": null,
+"taglia": "S",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl16290030-jeans-palazzo-tasca-dietro-rosa-strass-3",
+"colore": null,
+"hex": null,
+"taglia": "M",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl16290030-jeans-palazzo-tasca-dietro-rosa-strass-4",
+"colore": null,
+"hex": null,
+"taglia": "L",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl16290030-jeans-palazzo-tasca-dietro-rosa-strass-5",
+"colore": null,
+"hex": null,
+"taglia": "XL",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl16290030-jeans-palazzo-tasca-dietro-rosa-strass-6",
+"colore": null,
+"hex": null,
+"taglia": "XS",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl16290030-jeans-palazzo-tasca-dietro-rosa-strass-7",
+"colore": null,
+"hex": null,
+"taglia": "M",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl16290030-jeans-palazzo-tasca-dietro-rosa-strass-8",
+"colore": null,
+"hex": null,
+"taglia": "M",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl16290030-jeans-palazzo-tasca-dietro-rosa-strass-9",
+"colore": null,
+"hex": null,
+"taglia": "L",
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl600800018-tuta-completa-viscosa",
+"sku": "GL600800018",
+"nome": "Tuta completa viscosa",
+"categoria": "completi",
+"prezzo": 55.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl600800018-tuta-completa-viscosa-1",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl600800018-tuta-completa-viscosa-2",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl37440019-jeans-palazzo",
+"sku": "GL37440019",
+"nome": "Jeans palazzo",
+"categoria": "jeans",
+"prezzo": 55.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl37440019-jeans-palazzo-1",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": "S",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl37440019-jeans-palazzo-2",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": "M",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl37440019-jeans-palazzo-3",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": "XL",
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl93320021-jeans-baggy-chiaro",
+"sku": "GL93320021",
+"nome": "Jeans baggy chiaro",
+"categoria": "jeans",
+"prezzo": 55.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl93320021-jeans-baggy-chiaro-1",
+"colore": null,
+"hex": null,
+"taglia": "S",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl93320021-jeans-baggy-chiaro-2",
+"colore": null,
+"hex": null,
+"taglia": "M",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl93320021-jeans-baggy-chiaro-3",
+"colore": null,
+"hex": null,
+"taglia": "M",
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl260580020-giubbetto-scamosciato",
+"sku": "GL260580020",
+"nome": "Giubbetto scamosciato",
+"categoria": "giacche",
+"prezzo": 55.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl260580020-giubbetto-scamosciato-1",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl260580020-giubbetto-scamosciato-2",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl260180014-pantalone-baggy-scamosciato",
+"sku": "GL260180014",
+"nome": "Pantalone baggy scamosciato",
+"categoria": "pantaloni",
+"prezzo": 39.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl260180014-pantalone-baggy-scamosciato-1",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl260180014-pantalone-baggy-scamosciato-2",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl10160018-jeans-palazzo-grisio",
+"sku": "GL10160018",
+"nome": "Jeans palazzo grisio",
+"categoria": "jeans",
+"prezzo": 55.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl10160018-jeans-palazzo-grisio-1",
+"colore": null,
+"hex": null,
+"taglia": "S",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl10160018-jeans-palazzo-grisio-2",
+"colore": null,
+"hex": null,
+"taglia": "M",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl10160018-jeans-palazzo-grisio-3",
+"colore": null,
+"hex": null,
+"taglia": "L",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl10160018-jeans-palazzo-grisio-4",
+"colore": null,
+"hex": null,
+"taglia": "XL",
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl260650016-camicia-oversize-cotone-righe",
+"sku": "GL260650016",
+"nome": "Camicia oversize cotone righe",
+"categoria": "camicie",
+"prezzo": 43.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl260650016-camicia-oversize-cotone-righe-1",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl260650016-camicia-oversize-cotone-righe-2",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl260650016-camicia-oversize-cotone-righe-3",
+"colore": "Giallo",
+"hex": [
+"#F2D16B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl260650016-camicia-oversize-cotone-righe-4",
+"colore": "Giallo",
+"hex": [
+"#F2D16B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl258000013-pantalone-palazzo",
+"sku": "GL258000013",
+"nome": "Pantalone palazzo",
+"categoria": "pantaloni",
+"prezzo": 39.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl258000013-pantalone-palazzo-1",
+"colore": "Blu",
+"hex": [
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl258000013-pantalone-palazzo-2",
+"colore": "Blu",
+"hex": [
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl253030012-pantalone-tuta-liscio-baggy",
+"sku": "GL253030012",
+"nome": "Pantalone tuta liscio baggy",
+"categoria": "pantaloni",
+"prezzo": 35.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl253030012-pantalone-tuta-liscio-baggy-1",
+"colore": "Burro",
+"hex": [
+"#F3E3B0"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl253030012-pantalone-tuta-liscio-baggy-2",
+"colore": "Burro",
+"hex": [
+"#F3E3B0"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl253030012-pantalone-tuta-liscio-baggy-3",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": null
+},
+{
+"id": "gl253030012-pantalone-tuta-liscio-baggy-4",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": null
+}
+]
+},
+{
+"id": "gl242670011-pantalone-tuta-liscio-balloon",
+"sku": "GL242670011",
+"nome": "Pantalone tuta liscio balloon",
+"categoria": "pantaloni",
+"prezzo": 35.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl242670011-pantalone-tuta-liscio-balloon-1",
+"colore": "Burro",
+"hex": [
+"#F3E3B0"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl242670011-pantalone-tuta-liscio-balloon-2",
+"colore": "Burro",
+"hex": [
+"#F3E3B0"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl242670011-pantalone-tuta-liscio-baloon",
+"sku": "GL242670011",
+"nome": "Pantalone tuta liscio baloon",
+"categoria": "pantaloni",
+"prezzo": 35.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl242670011-pantalone-tuta-liscio-baloon-1",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": null
+}
+]
+},
+{
+"id": "gl270250014-giacca-tuta-bomberino-liscio",
+"sku": "GL270250014",
+"nome": "Giacca tuta bomberino liscio",
+"categoria": "giacche",
+"prezzo": 39.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl270250014-giacca-tuta-bomberino-liscio-1",
+"colore": "Burro",
+"hex": [
+"#F3E3B0"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl270250014-giacca-tuta-bomberino-liscio-2",
+"colore": "Burro",
+"hex": [
+"#F3E3B0"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl270250014-giacca-tuta-bomberino-liscio-3",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": null
+},
+{
+"id": "gl270250014-giacca-tuta-bomberino-liscio-4",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": null
+},
+{
+"id": "gl270250014-giacca-tuta-bomberino-liscio-5",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": null
+}
+]
+},
+{
+"id": "gl252710011-giacca-tuta-liscia-pipistrello",
+"sku": "GL252710011",
+"nome": "Giacca tuta liscia pipistrello",
+"categoria": "giacche",
+"prezzo": 39.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl252710011-giacca-tuta-liscia-pipistrello-1",
+"colore": "Burro",
+"hex": [
+"#F3E3B0"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl252710011-giacca-tuta-liscia-pipistrello-2",
+"colore": "Burro",
+"hex": [
+"#F3E3B0"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl24252009-felpa-liscia-girocollo-oversize",
+"sku": "GL24252009",
+"nome": "Felpa liscia girocollo oversize",
+"categoria": "felpe",
+"prezzo": 27.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl24252009-felpa-liscia-girocollo-oversize-1",
+"colore": "Grigio",
+"hex": [
+"#9A9A9A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl242550011-felpa-liscia-girocollo-oversize",
+"sku": "GL242550011",
+"nome": "Felpa liscia girocollo oversize",
+"categoria": "felpe",
+"prezzo": 27.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl242550011-felpa-liscia-girocollo-oversize-1",
+"colore": "Grigio",
+"hex": [
+"#9A9A9A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl242550011-pantalone-tuta-liscio-palazzo",
+"sku": "GL242550011",
+"nome": "Pantalone tuta liscio palazzo",
+"categoria": "pantaloni",
+"prezzo": 35.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl242550011-pantalone-tuta-liscio-palazzo-1",
+"colore": "Grigio",
+"hex": [
+"#9A9A9A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl242550011-pantalone-tuta-liscio-palazzo-2",
+"colore": "Grigio",
+"hex": [
+"#9A9A9A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl2512370010-giubbino-corto-liscio-tasche-dav",
+"sku": "GL2512370010",
+"nome": "Giubbino corto liscio tasche dav",
+"categoria": "giacche",
+"prezzo": 29.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl2512370010-giubbino-corto-liscio-tasche-dav-1",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl2512370010-giubbino-corto-liscio-tasche-dav-2",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl2561240010-pantalone-palazzo-con-elestico-alto-liscio",
+"sku": "GL2561240010",
+"nome": "Pantalone palazzo con elestico alto liscio",
+"categoria": "pantaloni",
+"prezzo": 29.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl2561240010-pantalone-palazzo-con-elestico-alto-liscio-1",
+"colore": "Grigio",
+"hex": [
+"#9A9A9A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl2561240010-pantalone-palazzo-con-elestico-alto-liscio-2",
+"colore": "Grigio",
+"hex": [
+"#9A9A9A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl2561240010-pantalone-palazzo-con-elestico-alto-liscio-3",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl2561240010-pantalone-palazzo-con-elestico-alto-liscio-4",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl2561240010-pantalone-palazzo-con-elestico-alto-liscio-5",
+"colore": "Bianco",
+"hex": [
+"#FFFFFF"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl9708230012-maglia-crop-manica-corta-con-pizzo",
+"sku": "GL9708230012",
+"nome": "Maglia crop manica corta con pizzo",
+"categoria": "maglieria",
+"prezzo": 33.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl9708230012-maglia-crop-manica-corta-con-pizzo-1",
+"colore": "Bianco",
+"hex": [
+"#FFFFFF"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl26700013-pantalone-pench-oversize-baggy-bottone-spostato-verde",
+"sku": "GL26700013",
+"nome": "Pantalone pench oversize baggy bottone spostato verde",
+"categoria": "pantaloni",
+"prezzo": 39.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl26700013-pantalone-pench-oversize-baggy-bottone-spostato-verde-1",
+"colore": "Verde militare",
+"hex": [
+"#5B6340"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl26700013-pantalone-pench-oversize-baggy-bottone-spostato-verde-2",
+"colore": "Verde militare",
+"hex": [
+"#5B6340"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl26700013-pantalone-pench-oversize-baggy-bottone-spostato-verde-3",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl26700013-pantalone-pench-oversize-baggy-bottone-spostato-verde-4",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl52370012-pantalone-tuta-baggy-felpa",
+"sku": "GL52370012",
+"nome": "Pantalone tuta baggy felpa",
+"categoria": "pantaloni",
+"prezzo": 35.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-03",
+"varianti": [
+{
+"id": "gl52370012-pantalone-tuta-baggy-felpa-1",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl5229700-camicia-righe-strass-colletto-bco-pietre",
+"sku": "GL5229700",
+"nome": "Camicia righe strass colletto bco pietre",
+"categoria": "camicie",
+"prezzo": 49.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl5229700-camicia-righe-strass-colletto-bco-pietre-1",
+"colore": "Bianco / Rosa",
+"hex": [
+"#FFFFFF",
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl5229700-camicia-righe-strass-colletto-bco-pietre-2",
+"colore": "Bianco / Celeste",
+"hex": [
+"#FFFFFF",
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl99180016-camicia-crop-palloncino-ricamo-dav",
+"sku": "GL99180016",
+"nome": "Camicia crop palloncino ricamo dav",
+"categoria": "camicie",
+"prezzo": 45.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl99180016-camicia-crop-palloncino-ricamo-dav-1",
+"colore": "Celeste / Bianco",
+"hex": [
+"#A9CBE8",
+"#FFFFFF"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl99180016-camicia-crop-palloncino-ricamo-dav-2",
+"colore": "Celeste / Bianco",
+"hex": [
+"#A9CBE8",
+"#FFFFFF"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl5638510010-camicia-righe-crop-palloncino-strass",
+"sku": "GL5638510010",
+"nome": "Camicia righe crop palloncino strass",
+"categoria": "camicie",
+"prezzo": 33.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl5638510010-camicia-righe-crop-palloncino-strass-1",
+"colore": "Bianco / Nero",
+"hex": [
+"#FFFFFF",
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl78520012-maglioncino-filo-righe",
+"sku": "GL78520012",
+"nome": "Maglioncino filo righe",
+"categoria": "maglieria",
+"prezzo": 35.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl78520012-maglioncino-filo-righe-1",
+"colore": "Rosa / Bianco / Blu",
+"hex": [
+"#F2B5BE",
+"#FFFFFF",
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl78520012-maglioncino-filo-righe-2",
+"colore": "Rosa / Bianco / Blu",
+"hex": [
+"#F2B5BE",
+"#FFFFFF",
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl78520012-maglioncino-filo-righe-3",
+"colore": "Celeste / Giallo / Blu",
+"hex": [
+"#A9CBE8",
+"#F2D16B",
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl78520012-maglioncino-filo-righe-4",
+"colore": "Celeste / Giallo / Blu",
+"hex": [
+"#A9CBE8",
+"#F2D16B",
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl78520012-maglioncino-filo-righe-5",
+"colore": "Nero / Bianco / Rosa",
+"hex": [
+"#1A1A1A",
+"#FFFFFF",
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl78520012-maglioncino-filo-righe-6",
+"colore": "Nero / Bianco / Rosa",
+"hex": [
+"#1A1A1A",
+"#FFFFFF",
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl87610014-cardigan-filo-trecce",
+"sku": "GL87610014",
+"nome": "Cardigan filo trecce",
+"categoria": "maglieria",
+"prezzo": 39.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl87610014-cardigan-filo-trecce-1",
+"colore": "Beige",
+"hex": [
+"#D9C3A5"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl87610014-cardigan-filo-trecce-2",
+"colore": "Celeste",
+"hex": [
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl87500011-pull-filo-girocollo",
+"sku": "GL87500011",
+"nome": "Pull filo girocollo",
+"categoria": "maglieria",
+"prezzo": 33.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl87500011-pull-filo-girocollo-1",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl87500011-pull-filo-girocollo-2",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl87500011-pull-filo-girocollo-3",
+"colore": "Beige",
+"hex": [
+"#D9C3A5"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl87500011-pull-filo-girocollo-4",
+"colore": "Beige",
+"hex": [
+"#D9C3A5"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl87500011-pull-filo-girocollo-5",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl87500011-pull-filo-girocollo-6",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl9392030013-camicia-cotone-oversize-righe",
+"sku": "GL9392030013",
+"nome": "Camicia cotone oversize righe",
+"categoria": "camicie",
+"prezzo": 33.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl9392030013-camicia-cotone-oversize-righe-1",
+"colore": "Marrone / Celeste",
+"hex": [
+"#7A5236",
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl9392030013-camicia-cotone-oversize-righe-2",
+"colore": "Rosa / Nero",
+"hex": [
+"#F2B5BE",
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl9392030013-camicia-cotone-oversize-righe-3",
+"colore": "Celeste / Marrone",
+"hex": [
+"#A9CBE8",
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl48800014-camicia-viscosa-ricamo-dav-e-maniche",
+"sku": "GL48800014",
+"nome": "Camicia viscosa ricamo dav e maniche",
+"categoria": "camicie",
+"prezzo": 39.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl48800014-camicia-viscosa-ricamo-dav-e-maniche-1",
+"colore": "Celeste",
+"hex": [
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl1185440015-camicione-oversize-righe-no-vabbe-ric-dietro",
+"sku": "GL1185440015",
+"nome": "Camicione oversize righe no vabbe' ric dietro",
+"categoria": "camicie",
+"prezzo": 39.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl1185440015-camicione-oversize-righe-no-vabbe-ric-dietro-1",
+"colore": "Bianco / Rosa",
+"hex": [
+"#FFFFFF",
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl1185440015-camicione-oversize-righe-no-vabbe-ric-dietro-2",
+"colore": "Bianco / Rosa",
+"hex": [
+"#FFFFFF",
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl1185440015-camicione-oversize-righe-no-vabbe-ric-dietro-3",
+"colore": "Bianco / Celeste",
+"hex": [
+"#FFFFFF",
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl1185440015-camicione-oversize-righe-no-vabbe-ric-dietro-4",
+"colore": "Bianco / Blu",
+"hex": [
+"#FFFFFF",
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl1185440015-camicione-oversize-righe-no-vabbe-ric-dietro-5",
+"colore": "Bianco / Celeste",
+"hex": [
+"#FFFFFF",
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl5516430011-pantalone-baggy-oversize-3-4-cotone",
+"sku": "GL5516430011",
+"nome": "Pantalone baggy oversize 3/4 cotone",
+"categoria": "pantaloni",
+"prezzo": 33.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl5516430011-pantalone-baggy-oversize-3-4-cotone-1",
+"colore": "Beige",
+"hex": [
+"#D9C3A5"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl552130013-pantalone-baggy-stretto-cotone",
+"sku": "GL552130013",
+"nome": "Pantalone baggy stretto cotone",
+"categoria": "pantaloni",
+"prezzo": 39.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl552130013-pantalone-baggy-stretto-cotone-1",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl552130013-pantalone-palazzo-cotone",
+"sku": "GL552130013",
+"nome": "Pantalone palazzo cotone",
+"categoria": "pantaloni",
+"prezzo": 39.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl552130013-pantalone-palazzo-cotone-1",
+"colore": "Verde / Verde militare",
+"hex": [
+"#5B6340",
+"#5B6340"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "as13740019-jeans-elasticizzata-stretto-sotto",
+"sku": "AS13740019",
+"nome": "Jeans elasticizzata stretto sotto",
+"categoria": "jeans",
+"prezzo": 49.0,
+"prezzo_min": null,
+"fornitore": "AS",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "as13740019-jeans-elasticizzata-stretto-sotto-1",
+"colore": null,
+"hex": null,
+"taglia": "XS",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as13740019-jeans-elasticizzata-stretto-sotto-2",
+"colore": null,
+"hex": null,
+"taglia": "S",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as13740019-jeans-elasticizzata-stretto-sotto-3",
+"colore": null,
+"hex": null,
+"taglia": "M",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as13740019-jeans-elasticizzata-stretto-sotto-4",
+"colore": null,
+"hex": null,
+"taglia": "L",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as13740019-jeans-elasticizzata-stretto-sotto-5",
+"colore": null,
+"hex": null,
+"taglia": "XL",
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "as92600020-jeans-baggy-lavaggio-medio-elasticizzata",
+"sku": "AS92600020",
+"nome": "Jeans baggy lavaggio medio elasticizzata",
+"categoria": "jeans",
+"prezzo": 55.0,
+"prezzo_min": null,
+"fornitore": "AS",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "as92600020-jeans-baggy-lavaggio-medio-elasticizzata-1",
+"colore": null,
+"hex": null,
+"taglia": "XS",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as92600020-jeans-baggy-lavaggio-medio-elasticizzata-2",
+"colore": null,
+"hex": null,
+"taglia": "S",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as92600020-jeans-baggy-lavaggio-medio-elasticizzata-3",
+"colore": null,
+"hex": null,
+"taglia": "M",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as92600020-jeans-baggy-lavaggio-medio-elasticizzata-4",
+"colore": null,
+"hex": null,
+"taglia": "L",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as92600020-jeans-baggy-lavaggio-medio-elasticizzata-5",
+"colore": null,
+"hex": null,
+"taglia": "XL",
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "as230820011-maglioncino-manica-3-4-girocollo",
+"sku": "AS230820011",
+"nome": "Maglioncino manica 3/4 girocollo",
+"categoria": "maglieria",
+"prezzo": 33.0,
+"prezzo_min": null,
+"fornitore": "AS",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "as230820011-maglioncino-manica-3-4-girocollo-1",
+"colore": "Giallo",
+"hex": [
+"#F2D16B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as230820011-maglioncino-manica-3-4-girocollo-2",
+"colore": "Giallo",
+"hex": [
+"#F2D16B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as230820011-maglioncino-manica-3-4-girocollo-3",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as230820011-maglioncino-manica-3-4-girocollo-4",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as230820011-maglioncino-manica-3-4-girocollo-5",
+"colore": "Verde / Acqua",
+"hex": [
+"#5B6340",
+"#9ED9D2"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as230820011-maglioncino-manica-3-4-girocollo-6",
+"colore": "Verde / Acqua",
+"hex": [
+"#5B6340",
+"#9ED9D2"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as230820011-maglioncino-manica-3-4-girocollo-7",
+"colore": "Celeste",
+"hex": [
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as230820011-maglioncino-manica-3-4-girocollo-8",
+"colore": "Celeste",
+"hex": [
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as230820011-maglioncino-manica-3-4-girocollo-9",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as230820011-maglioncino-manica-3-4-girocollo-10",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as230820011-maglioncino-manica-3-4-girocollo-11",
+"colore": "Celeste",
+"hex": [
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as230820011-maglioncino-manica-3-4-girocollo-12",
+"colore": "Celeste",
+"hex": [
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as230820011-maglioncino-manica-3-4-girocollo-13",
+"colore": "Beige",
+"hex": [
+"#D9C3A5"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as230820011-maglioncino-manica-3-4-girocollo-14",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl5639310014-giubbino-oversize-cotone",
+"sku": "GL5639310014",
+"nome": "Giubbino oversize cotone",
+"categoria": "giacche",
+"prezzo": 39.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl5639310014-giubbino-oversize-cotone-1",
+"colore": "Beige",
+"hex": [
+"#D9C3A5"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl5639310014-giubbino-oversize-cotone-2",
+"colore": "Verde / Verde militare",
+"hex": [
+"#5B6340",
+"#5B6340"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl5639310014-giubbino-oversize-cotone-3",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl52780017-pantalone-cotone-baggy-oversize",
+"sku": "GL52780017",
+"nome": "Pantalone cotone baggy oversize",
+"categoria": "pantaloni",
+"prezzo": 45.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl52780017-pantalone-cotone-baggy-oversize-1",
+"colore": "Verde / Verde militare",
+"hex": [
+"#5B6340",
+"#5B6340"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl52780017-pantalone-cotone-baggy-oversize-2",
+"colore": "Verde / Verde militare",
+"hex": [
+"#5B6340",
+"#5B6340"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl52780017-pantalone-cotone-baggy-oversize-3",
+"colore": "Verde / Blu",
+"hex": [
+"#5B6340",
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl52780017-pantalone-cotone-baggy-oversize-4",
+"colore": "Verde / Blu",
+"hex": [
+"#5B6340",
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl11975-119810020-tuta-felpa-pant-rosa-riga-laterale",
+"sku": "GL11975.119810020",
+"nome": "Tuta felpa+pant rosa riga laterale",
+"categoria": "completi",
+"prezzo": 55.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl11975-119810020-tuta-felpa-pant-rosa-riga-laterale-1",
+"colore": "Giallo",
+"hex": [
+"#F2D16B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl11975-119810020-tuta-felpa-pant-grigia-riga-laterale",
+"sku": "GL11975.119810020",
+"nome": "Tuta felpa+pant grigia riga laterale",
+"categoria": "completi",
+"prezzo": 55.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl11975-119810020-tuta-felpa-pant-grigia-riga-laterale-1",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl700810012-pantalone-tuta-leop-riga",
+"sku": "GL700810012",
+"nome": "Pantalone tuta leop. riga",
+"categoria": "pantaloni",
+"prezzo": 29.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl700810012-pantalone-tuta-leop-riga-1",
+"colore": "Fucsia",
+"hex": [
+"#D63C8C"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl9723610016-camicia-oversize-pizzo-parte-sup-e-maniche",
+"sku": "GL9723610016",
+"nome": "Camicia oversize pizzo parte sup e maniche",
+"categoria": "camicie",
+"prezzo": 45.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl9723610016-camicia-oversize-pizzo-parte-sup-e-maniche-1",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl9723610016-camicia-oversize-pizzo-parte-sup-e-maniche-2",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl218080007-cashmerina",
+"sku": "GL218080007",
+"nome": "Cashmerina",
+"categoria": "maglieria",
+"prezzo": 17.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl218080007-cashmerina-1",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl218080007-cashmerina-2",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl218080007-cashmerina-3",
+"colore": "Celeste",
+"hex": [
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl218080007-cashmerina-4",
+"colore": "Celeste",
+"hex": [
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl132650012-maglia-filo-manica-corta-riga",
+"sku": "GL132650012",
+"nome": "Maglia filo manica corta riga",
+"categoria": "maglieria",
+"prezzo": 35.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl132650012-maglia-filo-manica-corta-riga-1",
+"colore": "Rosa / Bordeaux",
+"hex": [
+"#F2B5BE",
+"#6D1A2A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl132650012-maglia-filo-manica-corta-riga-2",
+"colore": "Rosa / Bordeaux",
+"hex": [
+"#F2B5BE",
+"#6D1A2A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl132650012-maglia-filo-manica-corta-riga-3",
+"colore": "Rosa / Bordeaux",
+"hex": [
+"#F2B5BE",
+"#6D1A2A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl1185470017-camicione-oversize-amur-ricamato",
+"sku": "GL1185470017",
+"nome": "Camicione oversize amur ricamato",
+"categoria": "camicie",
+"prezzo": 45.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl1185470017-camicione-oversize-amur-ricamato-1",
+"colore": "Bianco / Celeste",
+"hex": [
+"#FFFFFF",
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl1185470017-camicione-oversize-amur-ricamato-2",
+"colore": "Bianco / Celeste",
+"hex": [
+"#FFFFFF",
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "as6001006-cashmerina-pizzo-elasticizzata",
+"sku": "AS6001006",
+"nome": "Cashmerina pizzo elasticizzata",
+"categoria": "maglieria",
+"prezzo": 16.0,
+"prezzo_min": null,
+"fornitore": "AS",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "as6001006-cashmerina-pizzo-elasticizzata-1",
+"colore": "Giallo",
+"hex": [
+"#F2D16B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as6001006-cashmerina-pizzo-elasticizzata-2",
+"colore": "Giallo",
+"hex": [
+"#F2D16B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as6001006-cashmerina-pizzo-elasticizzata-3",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as6001006-cashmerina-pizzo-elasticizzata-4",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as6001006-cashmerina-pizzo-elasticizzata-5",
+"colore": "Celeste",
+"hex": [
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as6001006-cashmerina-pizzo-elasticizzata-6",
+"colore": "Celeste",
+"hex": [
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as6001006-cashmerina-pizzo-elasticizzata-7",
+"colore": "Giallo",
+"hex": [
+"#F2D16B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as6001006-cashmerina-pizzo-elasticizzata-8",
+"colore": "Giallo",
+"hex": [
+"#F2D16B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as6001006-cashmerina-pizzo-elasticizzata-9",
+"colore": "Giallo",
+"hex": [
+"#F2D16B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as6001006-cashmerina-pizzo-elasticizzata-10",
+"colore": "Celeste",
+"hex": [
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as6001006-cashmerina-pizzo-elasticizzata-11",
+"colore": "Celeste",
+"hex": [
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as6001006-cashmerina-pizzo-elasticizzata-12",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as6001006-cashmerina-pizzo-elasticizzata-13",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as6001006-cashmerina-pizzo-elasticizzata-14",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as6001006-cashmerina-pizzo-elasticizzata-15",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as6001006-cashmerina-pizzo-elasticizzata-16",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as6001006-cashmerina-pizzo-elasticizzata-17",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as6001006-cashmerina-pizzo-elasticizzata-18",
+"colore": "Bianco / Perla",
+"hex": [
+"#FFFFFF",
+"#ECE8E1"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as6001006-cashmerina-pizzo-elasticizzata-19",
+"colore": "Bianco / Perla",
+"hex": [
+"#FFFFFF",
+"#ECE8E1"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as6001006-cashmerina-pizzo-elasticizzata-20",
+"colore": "Bianco / Perla",
+"hex": [
+"#FFFFFF",
+"#ECE8E1"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl20460013-pantalone-liscio-palazzo-classic",
+"sku": "GL20460013",
+"nome": "Pantalone liscio palazzo classic",
+"categoria": "pantaloni",
+"prezzo": 35.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl20460013-pantalone-liscio-palazzo-classic-1",
+"colore": "Blu",
+"hex": [
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl20460013-pantalone-liscio-palazzo-classic-2",
+"colore": "Blu",
+"hex": [
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl20460013-pantalone-liscio-palazzo-classic-3",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl20460013-pantalone-liscio-palazzo-classic-4",
+"colore": "Panna",
+"hex": [
+"#F4EEDF"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl7032009-felpa-liscia-v-oversize",
+"sku": "GL7032009",
+"nome": "Felpa liscia v oversize",
+"categoria": "felpe",
+"prezzo": 27.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl7032009-felpa-liscia-v-oversize-1",
+"colore": "Blu",
+"hex": [
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl7032009-felpa-liscia-v-oversize-2",
+"colore": "Blu",
+"hex": [
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl7032009-felpa-liscia-v-oversize-3",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl7032009-felpa-liscia-v-oversize-4",
+"colore": "Panna",
+"hex": [
+"#F4EEDF"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl250270014-felpa-bomberino-liscia",
+"sku": "GL250270014",
+"nome": "Felpa bomberino liscia",
+"categoria": "felpe",
+"prezzo": 39.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl250270014-felpa-bomberino-liscia-1",
+"colore": "Burro",
+"hex": [
+"#F3E3B0"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl250270014-felpa-bomberino-liscia-2",
+"colore": "Burro",
+"hex": [
+"#F3E3B0"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl250270014-felpa-bomberino-liscia-3",
+"colore": "Blu",
+"hex": [
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl250270014-felpa-bomberino-liscia-4",
+"colore": "Blu",
+"hex": [
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl250270014-felpa-bomberino-liscia-5",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl250270014-felpa-bomberino-liscia-6",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl253030012-pantalone-baggy-liscio",
+"sku": "GL253030012",
+"nome": "Pantalone baggy liscio",
+"categoria": "pantaloni",
+"prezzo": 35.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl253030012-pantalone-baggy-liscio-1",
+"colore": "Burro",
+"hex": [
+"#F3E3B0"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl253030012-pantalone-baggy-liscio-2",
+"colore": "Burro",
+"hex": [
+"#F3E3B0"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl253030012-pantalone-baggy-liscio-3",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl253030012-pantalone-baggy-liscio-4",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl253030012-pantalone-baggy-liscio-5",
+"colore": "Blu",
+"hex": [
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl253030012-pantalone-baggy-liscio-6",
+"colore": "Blu",
+"hex": [
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl98660027-giacca-camicia-con-cappuccio-oversize-scozzese",
+"sku": "GL98660027",
+"nome": "Giacca camicia con cappuccio oversize scozzese",
+"categoria": "giacche",
+"prezzo": 59.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl98660027-giacca-camicia-con-cappuccio-oversize-scozzese-1",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl98660027-giacca-camicia-con-cappuccio-oversize-scozzese-2",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl206335-216500018-completo-giacca-pant-class-gessato-col-jeans",
+"sku": "GL206335.216500018",
+"nome": "Completo giacca+pant class gessato col.jeans",
+"categoria": "completi",
+"prezzo": 53.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl206335-216500018-completo-giacca-pant-class-gessato-col-jeans-1",
+"colore": null,
+"hex": null,
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl206335-216500018-completo-giacca-pant-class-gessato",
+"sku": "GL206335.216500018",
+"nome": "Completo giacca+pant class gessato",
+"categoria": "completi",
+"prezzo": 53.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl206335-216500018-completo-giacca-pant-class-gessato-1",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl42114-95160023-completo-gilet-pant-baggy-p-mil",
+"sku": "GL42114.95160023",
+"nome": "Completo gilet+pant baggy p.mil",
+"categoria": "completi",
+"prezzo": 59.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl42114-95160023-completo-gilet-pant-baggy-p-mil-1",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl55214-571000025-completo-giacca-crop-pant-palazzo-c7-elasticizzata-bco-gess",
+"sku": "GL55214.571000025",
+"nome": "Completo giacca crop+ pant palazzo c7 elasticizzata bco gess",
+"categoria": "completi",
+"prezzo": 69.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl55214-571000025-completo-giacca-crop-pant-palazzo-c7-elasticizzata-bco-gess-1",
+"colore": "Blu",
+"hex": [
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl55214-571000025-completo-giacca-crop-pant-palazzo-c7-elasticizzata-bco-gess-2",
+"colore": "Blu",
+"hex": [
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl27393-295070022-tuta-felpa-crop-pant-baggy-oversize-cotone",
+"sku": "GL27393.295070022",
+"nome": "Tuta felpa crop + pant baggy oversize cotone",
+"categoria": "completi",
+"prezzo": 59.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl27393-295070022-tuta-felpa-crop-pant-baggy-oversize-cotone-1",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl27393-295070022-tuta-felpa-crop-pant-baggy-oversize-cotone-2",
+"colore": "Grigio",
+"hex": [
+"#9A9A9A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl27393-295070022-tuta-felpa-crop-pant-baggy-oversize-cotone-3",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl825820015-camicia-cotone-inserti-ricamo-fiori",
+"sku": "GL825820015",
+"nome": "Camicia cotone inserti ricamo fiori",
+"categoria": "camicie",
+"prezzo": 39.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl825820015-camicia-cotone-inserti-ricamo-fiori-1",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "gl825820015-camicia-cotone-inserti-ricamo-fiori-2",
+"colore": "Celeste",
+"hex": [
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl870900011-camicia-raso-fant-fiorellini",
+"sku": "GL870900011",
+"nome": "Camicia raso fant. fiorellini",
+"categoria": "camicie",
+"prezzo": 29.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl870900011-camicia-raso-fant-fiorellini-1",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl870900011-camicia-raso-fant-fiorellini-2",
+"colore": "Giallo",
+"hex": [
+"#F2D16B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl870900011-camicia-raso-fant-pois",
+"sku": "GL870900011",
+"nome": "Camicia raso fant. pois",
+"categoria": "camicie",
+"prezzo": 29.0,
+"prezzo_min": null,
+"fornitore": "GL",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl870900011-camicia-raso-fant-pois-1",
+"colore": "Nero / Bianco",
+"hex": [
+"#1A1A1A",
+"#FFFFFF"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl870900011-camicia-raso-fant-pois-2",
+"colore": "Celeste / Marrone",
+"hex": [
+"#A9CBE8",
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "gl2121008-maglia-manica-corta-girocollo-liscia-righe-larghe",
+"sku": "GL2121008",
+"nome": "Maglia manica corta girocollo liscia righe larghe",
+"categoria": "maglieria",
+"prezzo": 19.0,
+"prezzo_min": null,
+"fornitore": "AS",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl2121008-maglia-manica-corta-girocollo-liscia-righe-larghe-1",
+"colore": "Rosa / Marrone",
+"hex": [
+"#F2B5BE",
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl2121008-maglia-manica-corta-girocollo-liscia-righe-larghe-2",
+"colore": "Giallo / Marrone",
+"hex": [
+"#F2D16B",
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "gl311680017-pantalone-baggy-liscio",
+"sku": "GL311680017",
+"nome": "Pantalone baggy liscio",
+"categoria": "pantaloni",
+"prezzo": 39.0,
+"prezzo_min": null,
+"fornitore": "AS",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "gl311680017-pantalone-baggy-liscio-1",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "gl311680017-pantalone-baggy-liscio-2",
+"colore": "Giallo",
+"hex": [
+"#F2D16B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "as69170022-giubbino-imperm-elastico-collo-int-pizzo",
+"sku": "AS69170022",
+"nome": "Giubbino imperm.elastico collo int pizzo",
+"categoria": "giacche",
+"prezzo": 55.0,
+"prezzo_min": null,
+"fornitore": "AS",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "as69170022-giubbino-imperm-elastico-collo-int-pizzo-1",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as69170022-giubbino-imperm-elastico-collo-int-pizzo-2",
+"colore": "Marrone",
+"hex": [
+"#7A5236"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "as325670018-giubbino-mod-class-con-cappuccio-e-tasche-imp",
+"sku": "AS325670018",
+"nome": "Giubbino mod. class con cappuccio e tasche imp.",
+"categoria": "giacche",
+"prezzo": 49.0,
+"prezzo_min": null,
+"fornitore": "AS",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "as325670018-giubbino-mod-class-con-cappuccio-e-tasche-imp-1",
+"colore": "Blu",
+"hex": [
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as325670018-giubbino-mod-class-con-cappuccio-e-tasche-imp-2",
+"colore": "Blu",
+"hex": [
+"#22386B"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "an113370016-borsa-quadrata-con-frange-e-b-orchie",
+"sku": "AN113370016",
+"nome": "Borsa quadrata con frange e b orchie",
+"categoria": "borse",
+"prezzo": 35.0,
+"prezzo_min": null,
+"fornitore": "AN",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "an113370016-borsa-quadrata-con-frange-e-b-orchie-1",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "an113370016-borsa-quadrata-con-frange-e-borchie",
+"sku": "AN113370016",
+"nome": "Borsa quadrata con frange e borchie",
+"categoria": "borse",
+"prezzo": 35.0,
+"prezzo_min": null,
+"fornitore": "AN",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "an113370016-borsa-quadrata-con-frange-e-borchie-1",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "an883080013-balenciaga-piccola-jeans",
+"sku": "AN883080013",
+"nome": "Balenciaga piccola jeans",
+"categoria": "borse",
+"prezzo": 30.0,
+"prezzo_min": null,
+"fornitore": "AN",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "an883080013-balenciaga-piccola-jeans-1",
+"colore": null,
+"hex": null,
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "an97800016-balenciaga-media-jeans",
+"sku": "AN97800016",
+"nome": "Balenciaga media jeans",
+"categoria": "borse",
+"prezzo": 35.0,
+"prezzo_min": 30.0,
+"fornitore": "AN",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "an97800016-balenciaga-media-jeans-1",
+"colore": null,
+"hex": null,
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "an581100016-borsa-pattina-ecop-cammello-jeans-lavato",
+"sku": "AN581100016",
+"nome": "Borsa pattina ecop cammello jeans lavato",
+"categoria": "borse",
+"prezzo": 35.0,
+"prezzo_min": null,
+"fornitore": "AN",
+"caricato": "2026-02-19",
+"varianti": [
+{
+"id": "an581100016-borsa-pattina-ecop-cammello-jeans-lavato-1",
+"colore": null,
+"hex": null,
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "as80590019-jeans-baggy",
+"sku": "AS80590019",
+"nome": "Jeans baggy",
+"categoria": "jeans",
+"prezzo": 49.0,
+"prezzo_min": null,
+"fornitore": "AS",
+"caricato": "2026-02-26",
+"varianti": [
+{
+"id": "as80590019-jeans-baggy-1",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": "XS",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as80590019-jeans-baggy-2",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": "XS",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as80590019-jeans-baggy-3",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": "S",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as80590019-jeans-baggy-4",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": "S",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as80590019-jeans-baggy-5",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": "M",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as80590019-jeans-baggy-6",
+"colore": "Rosa",
+"hex": [
+"#F2B5BE"
+],
+"taglia": "M",
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "as18330020-jeans-buggyu-elasticizzata-corto",
+"sku": "AS18330020",
+"nome": "Jeans buggyu elasticizzata corto",
+"categoria": "jeans",
+"prezzo": 49.0,
+"prezzo_min": null,
+"fornitore": "AS",
+"caricato": "2026-02-26",
+"varianti": [
+{
+"id": "as18330020-jeans-buggyu-elasticizzata-corto-1",
+"colore": null,
+"hex": null,
+"taglia": "S",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as18330020-jeans-buggyu-elasticizzata-corto-2",
+"colore": null,
+"hex": null,
+"taglia": "M",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as18330020-jeans-buggyu-elasticizzata-corto-3",
+"colore": null,
+"hex": null,
+"taglia": "L",
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as18330020-jeans-buggyu-elasticizzata-corto-4",
+"colore": null,
+"hex": null,
+"taglia": "XL",
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "as17100019-jeans-semi-palazzo-mod-engenereed-chiaro",
+"sku": "AS17100019",
+"nome": "Jeans semi palazzo mod engenereed chiaro",
+"categoria": "jeans",
+"prezzo": 49.0,
+"prezzo_min": null,
+"fornitore": "AS",
+"caricato": "2026-02-26",
+"varianti": [
+{
+"id": "as17100019-jeans-semi-palazzo-mod-engenereed-chiaro-1",
+"colore": null,
+"hex": null,
+"taglia": "XS",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as17100019-jeans-semi-palazzo-mod-engenereed-chiaro-2",
+"colore": null,
+"hex": null,
+"taglia": "S",
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as17100019-jeans-semi-palazzo-mod-engenereed-chiaro-3",
+"colore": null,
+"hex": null,
+"taglia": "M",
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "as112920011-camicia-ciliegie-piccole",
+"sku": "AS112920011",
+"nome": "Camicia ciliegie piccole",
+"categoria": "camicie",
+"prezzo": 29.0,
+"prezzo_min": null,
+"fornitore": "AS",
+"caricato": "2026-02-26",
+"varianti": [
+{
+"id": "as112920011-camicia-ciliegie-piccole-1",
+"colore": "Panna",
+"hex": [
+"#F4EEDF"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as112920011-camicia-ciliegie-piccole-2",
+"colore": "Panna",
+"hex": [
+"#F4EEDF"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as112920011-camicia-ciliegie-piccole-3",
+"colore": "Panna",
+"hex": [
+"#F4EEDF"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+},
+{
+"id": "as112920011-camicia-ciliegie-piccole-4",
+"colore": "Panna",
+"hex": [
+"#F4EEDF"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "T"
+}
+]
+},
+{
+"id": "as322970017-giacchetto-scamosciato-simil-chiodo",
+"sku": "AS322970017",
+"nome": "Giacchetto scamosciato simil chiodo",
+"categoria": "giacche",
+"prezzo": 49.0,
+"prezzo_min": null,
+"fornitore": "AS",
+"caricato": "2026-02-26",
+"varianti": [
+{
+"id": "as322970017-giacchetto-scamosciato-simil-chiodo-1",
+"colore": "Celeste",
+"hex": [
+"#A9CBE8"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+},
+{
+"id": "as322970017-giacchetto-scamosciato-simil-chiodo-2",
+"colore": "Burro",
+"hex": [
+"#F3E3B0"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+},
+{
+"id": "as301370020-tuta-completa-giacchetto-zip-pant-palazzo-liscio",
+"sku": "AS301370020",
+"nome": "Tuta completa giacchetto zip + pant palazzo liscio",
+"categoria": "completi",
+"prezzo": 55.0,
+"prezzo_min": null,
+"fornitore": "AS",
+"caricato": "2026-02-26",
+"varianti": [
+{
+"id": "as301370020-tuta-completa-giacchetto-zip-pant-palazzo-liscio-1",
+"colore": "Nero",
+"hex": [
+"#1A1A1A"
+],
+"taglia": null,
+"stato": "disponibile",
+"negozio": "F"
+}
+]
+}
+]
+}

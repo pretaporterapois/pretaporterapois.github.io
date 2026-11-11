@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow"><!-- ANTEPRIMA: togliere quando il sito va online sul dominio -->
+<title>Collezione · Prêt à Porter à Pois</title>
+<meta name="description" content="La collezione Prêt à Porter à Pois: maglieria, jeans, camicie, giacche e borse. Pochi capi, mai due volte.">
+<meta name="theme-color" content="#110A0D">
+<link rel="icon" href="img/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://images.unsplash.com">
+<link href="https://fonts.googleapis.com/css2?family=Allura&family=Montserrat:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/home.css?v=1794434270">
+<link rel="stylesheet" href="css/pages.css?v=1794434270">
+</head>
+<body>
+<div id="shell-top"></div>
+
+<main>
+  <section class="phero">
+    <img id="pheroImg" alt="">
+    <div class="wrap">
+      <nav class="crumbs" aria-label="Percorso"><a href="index.html">Home</a><i></i><a href="catalogo.html" data-k="sec.collezione">Collezione</a><span id="crumbCat"></span></nav>
+      <h1 id="pTitle">La <i>collezione</i></h1>
+      <div class="cnt" id="pCount"></div>
+    </div>
+  </section>
+
+  <div class="wrap">
+    <div class="toolbar">
+      <div class="chips" id="chips"></div>
+      <div class="tool-r">
+        <button class="pill" id="openFilters"><svg class="ico" data-ico="filter"></svg><span id="fLbl">Filtri</span><span class="n" id="fN" hidden>0</span></button>
+        <div class="selwrap"><select id="sort" aria-label="Ordina">
+          <option value="novita">Novità</option><option value="ribasso">Ribasso maggiore</option><option value="prezzo-su">Prezzo crescente</option><option value="prezzo-giu">Prezzo decrescente</option><option value="nome">Nome A–Z</option>
+        </select><svg class="ico" data-ico="down"></svg></div>
+      </div>
+    </div>
+    <div class="active" id="active"></div>
+    <div class="pgrid" id="grid"></div>
+    <div class="loadmore" id="more"></div>
+  </div>
+</main>
+
+<!-- pannello filtri -->
+<aside class="drawer fdrawer" id="fdrawer" aria-label="Filtri">
+  <header><b id="fTitle">Filtri</b><button class="ic" id="closeFilters" aria-label="Chiudi"><svg class="ico" data-ico="x"></svg></button></header>
+  <div class="items">
+    <div class="fsec"><h6 id="fhCol">Colore</h6><div class="fcols" id="fCols"></div></div>
+    <div class="fsec"><h6 id="fhSz">Taglia</h6><div class="fsizes" id="fSizes"></div><p class="fnote" id="fSzNote"></p></div>
+    <div class="fsec"><h6 id="fhPr">Prezzo</h6><div class="fprice" id="fPrice"></div></div>
+    <div class="fsec">
+      <label class="sw-row"><span><b id="fSaleL">Solo in ribasso</b></span><input type="checkbox" id="fSale"><i></i></label>
+      <label class="sw-row"><span><b id="fNewL">Solo novità</b></span><input type="checkbox" id="fNew"><i></i></label>
+    </div>
+  </div>
+  <div class="foot"><button class="btn ghost sm" id="fReset">Azzera</button><button class="btn rosa" id="fApply"><span id="fApplyTxt">Mostra</span><span class="bi"><svg class="ico" data-ico="arrow"></svg></span></button></div>
+</aside>
+<div class="scrim" id="fscrim"></div>
+
+<div id="shell-bottom"></div>
+<script src="js/foto.js?v=1794434270"></script>
+<script src="js/db.js?v=1794434270"></script>
+<script src="js/core.js?v=1794434270"></script>
+<script src="js/fx.js?v=1794434270"></script>
+<script src="js/catalogo.js?v=1794434270"></script>
+</body>
+</html>

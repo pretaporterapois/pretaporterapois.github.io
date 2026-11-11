@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500">
+  <defs>
+    <pattern id="p" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="11" cy="11" r="2" fill="#F0929A" fill-opacity=".22"/></pattern>
+    <radialGradient id="g" cx="50%" cy="42%" r="70%"><stop offset="0" stop-color="#2A1A20"/><stop offset="1" stop-color="#140C10"/></radialGradient>
+  </defs>
+  <rect width="400" height="500" fill="url(#g)"/>
+  <rect width="400" height="500" fill="url(#p)"/>
+  <circle cx="200" cy="215" r="62" fill="none" stroke="#F0929A" stroke-width="1.5" stroke-dasharray="3 6"/>
+  <path d="M176 200h10l6-9h16l6 9h10v32h-48z" fill="none" stroke="#F1DCCB" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="200" cy="216" r="9" fill="none" stroke="#F1DCCB" stroke-width="2"/>
+  <text x="200" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="24" fill="#F8EFF0">Foto in arrivo</text>
+  <text x="200" y="348" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" letter-spacing="3" fill="#F0929A">PRÊT À PORTER À POIS</text>
+</svg>

@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex,nofollow"><!-- ANTEPRIMA: togliere quando il sito va online sul dominio -->
+<title>Prêt à Porter à Pois · Boutique a Roma e Frascati</title>
+<meta name="description" content="Prêt à Porter à Pois: pochi capi, scelti con cura, mai lo stesso due volte. Shop online, ritiro in boutique e Shopping Tour a Roma.">
+<meta name="theme-color" content="#110A0D">
+<link rel="icon" href="img/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preconnect" href="https://images.unsplash.com">
+<link href="https://fonts.googleapis.com/css2?family=Allura&family=Montserrat:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/home.css?v=1794434270">
+<link rel="stylesheet" href="css/pages.css?v=1794434270">
+</head>
+<body data-home="1">
+<!--
+  Tutti i testi, le foto e le offerte vengono da data/contenuti.json (modificabile dall'area admin).
+  Intestazione, menu, borsa, ricerca, cookie e piè di pagina sono in js/core.js (comuni a tutte le pagine).
+-->
+<div id="shell-top"></div>
+<main>
+<!-- HERO: foto che si alternano + logo con polaroid -->
+<section class="hero">
+  <div class="slides" id="slides"></div>
+  <canvas id="dots" aria-hidden="true"></canvas>
+  <div class="wrap">
+    <div>
+      <span class="eyebrow fade" data-k="hero.eyebrow">Boutique · Roma &amp; Frascati</span>
+      <h1>
+        <span class="line"><span data-k="hero.l1">Pochi capi, scelti con cura,</span></span>
+        <span class="line"><span class="script" data-k="hero.l2">mai due volte.</span></span>
+      </h1>
+      <p class="lead fade" data-k="hero.lead">Quando un capo finisce non lo riordiniamo: ne arriva uno diverso. E più resta in vetrina, più il suo prezzo scende.</p>
+      <div class="ctas fade">
+        <button class="btn" data-go="novita"><span data-k="hero.cta1">Scopri le novità</span><span class="bi"><svg class="ico" data-ico="arrow"></svg></span></button>
+        <button class="btn ghost" data-go="tour" data-k="hero.cta2">Shopping Tour</button>
+      </div>
+      <div class="dotsnav fade" id="dotsnav"></div>
+    </div>
+    <div class="hero-art fade" id="heroArt">
+      <svg class="ring" viewBox="0 0 400 400" aria-hidden="true"><defs><path id="circ" d="M200,200 m-176,0 a176,176 0 1,1 352,0 a176,176 0 1,1 -352,0"/></defs><text><textPath href="#circ" id="ringTxt">Prêt à Porter à Pois · Roma · Frascati · Made in Italy ·</textPath></text></svg>
+      <img class="hero-logo" src="img/logo.png" alt="Logo Prêt à Porter à Pois">
+      <div class="polaroid p1"><img alt=""><small></small></div>
+      <div class="polaroid p2"><img alt=""><small></small></div>
+      <div class="polaroid p3"><img alt=""><small></small></div>
+    </div>
+  </div>
+</section>
+
+<!-- SEZIONI SELEZIONABILI -->
+<section class="stage" id="stage">
+  <div class="seg-wrap">
+    <nav class="seg" id="seg" aria-label="Sezioni">
+      <span class="blob"></span>
+      <button data-p="novita"><svg class="ico" data-ico="spark"></svg><span data-k="sec.novita">Novità</span></button>
+      <button data-p="collezione"><svg class="ico" data-ico="hanger"></svg><span data-k="sec.collezione">Collezione</span></button>
+      <button data-p="ribassi"><svg class="ico" data-ico="tag"></svg><span data-k="sec.ribassi">Ribassi</span></button>
+      <button data-p="tour"><svg class="ico" data-ico="car"></svg><span data-k="sec.tour">Tour</span></button>
+      <button data-p="boutique"><svg class="ico" data-ico="pin"></svg><span data-k="sec.boutique">Boutique</span></button>
+    </nav>
+  </div>
+
+  <div class="wrap">
+    <!-- NOVITÀ -->
+    <section class="panel" id="p-novita">
+      <div class="phead st">
+        <div><span class="eyebrow" data-k="nov.eyebrow">Appena arrivati</span><h2 class="title" data-k-html="nov.title">Le <i>novità</i> in boutique</h2></div>
+        <div class="ctrls"><button class="circ" id="railPrev" aria-label="Indietro"><svg class="ico" data-ico="left"></svg></button><button class="circ" id="railNext" aria-label="Avanti"><svg class="ico" data-ico="arrow"></svg></button></div>
+      </div>
+      <div class="chips st" style="--i:1" id="chips"></div>
+      <div class="rail st" style="--i:2" id="rail"></div>
+      <div class="more st" style="--i:3"><a class="btn sm" id="allBtn" href="catalogo.html"><span id="allTxt">Tutto il catalogo</span><span class="bi"><svg class="ico" data-ico="arrow"></svg></span></a></div>
+    </section>
+
+    <!-- COLLEZIONE -->
+    <section class="panel" id="p-collezione">
+      <div class="phead st"><div><span class="eyebrow" data-k="col.eyebrow">La collezione</span><h2 class="title" data-k-html="col.title">Scegli il tuo <i>stile</i></h2></div><p data-k="col.p">Capi selezionati uno per uno. Quando un modello finisce, al suo posto arriva qualcosa di nuovo.</p></div>
+      <div class="tiles" id="tiles"></div>
+    </section>
+
+    <!-- RIBASSI -->
+    <section class="panel" id="p-ribassi">
+      <div class="drop">
+        <div class="st">
+          <span class="eyebrow" data-k="rib.eyebrow">Il prezzo che scende</span>
+          <h2 class="title" data-k-html="rib.title">Più aspetti, <i>meno paghi.</i></h2>
+          <p style="margin-top:12px;color:var(--muted);max-width:440px" data-k="rib.p">Ogni capo si ribassa da solo, mentre si vende e mentre resta in vetrina. Ma è un pezzo unico: qualcun'altra potrebbe prenderlo prima di te.</p>
+          <ul class="steps" id="steps"></ul>
+        </div>
+        <div class="tag st" style="--i:2" id="tag">
+          <span class="eyebrow" data-k="rib.try">Prova tu</span>
+          <div class="row"><img id="tagImg" alt=""><div><div class="nm" id="tagName"></div><div class="big"><b id="tagPrice"></b><s id="tagOld"></s></div><span class="off zero" id="tagOff"></span></div></div>
+          <div class="sl"><label><span data-k="rib.days">Giorni in vetrina</span><span id="dV">0</span></label><input type="range" id="days" min="0" max="120" value="0" aria-label="Giorni in vetrina"></div>
+          <div class="sl"><label><span data-k="rib.sold">Pezzi del modello venduti</span><span id="sV">0%</span></label><input type="range" id="sold" min="0" max="100" value="0" step="5" aria-label="Pezzi venduti"></div>
+          <div class="floor" data-k="rib.floor">Il prezzo non scende mai sotto il minimo deciso dalla boutique.</div>
+        </div>
+      </div>
+      <div class="phead st" style="--i:3;margin:40px 0 18px"><div><span class="eyebrow" data-k="rib.now">In ribasso adesso</span></div></div>
+      <div class="rail st" style="--i:4" id="railSale"></div>
+    </section>
+
+    <!-- SHOPPING TOUR -->
+    <section class="panel tour" id="p-tour">
+      <div class="tour-card st">
+        <img id="tourImg" alt="">
+        <div class="tour-head">
+          <div><h2>Shopping <em>Tour</em><span class="script" data-k="tour.roma">a Roma</span></h2><span class="sub" data-k="tour.sub">La moda ti porta in città</span></div>
+          <p data-k="tour.p">Ti veniamo a prendere in aeroporto o in stazione con un servizio NCC di classe e ti accompagniamo nelle nostre boutique. Noi guidiamo, tu ti diverti.</p>
+        </div>
+        <div class="route">
+          <div><div class="lbl" data-k="tour.from">Ti prendiamo da</div><ul class="from" id="tourFrom"></ul></div>
+          <svg class="map" viewBox="0 0 400 300" aria-hidden="true"><g class="paths"></g><circle class="pulse" cx="200" cy="150" r="32"/><circle class="hub" cx="200" cy="150" r="32"/><text class="hubtxt" x="200" y="163" text-anchor="middle">Roma</text><g id="car"><circle r="8" fill="#fff"/><circle r="3.5" fill="#F0929A"/></g></svg>
+          <div class="mob-line"></div>
+          <div><div class="lbl" data-k="tour.to">E ti portiamo da noi</div><ul class="to" id="tourShops"></ul></div>
+        </div>
+        <div class="tour-foot">
+          <div class="vals" id="tourVals"></div>
+          <button class="btn rosa" id="openTour"><span data-k="tour.cta">Prenota il tuo tour</span><span class="bi"><svg class="ico" data-ico="arrow"></svg></span></button>
+        </div>
+      </div>
+    </section>
+
+    <!-- BOUTIQUE + CLUB -->
+    <section class="panel" id="p-boutique">
+      <div class="phead st"><div><span class="eyebrow" data-k="bou.eyebrow">Vieni a trovarci</span><h2 class="title" data-k-html="bou.title">Le nostre <i>boutique</i></h2></div><p data-k="bou.p">Quattro indirizzi tra Roma e Frascati. Compra online e ritira gratis dove preferisci.</p></div>
+      <div class="shops st" style="--i:1" id="shops"></div>
+    </section>
+  </div>
+</section>
+
+<!-- CLUB: sempre visibile prima del footer, compatto -->
+<section class="wrap" style="padding-bottom:50px">
+  <div class="club">
+    <div class="news-card">
+      <span class="pct" id="newsPct">−10%</span>
+      <h3 class="title" data-k="club.title">sul tuo primo ordine</h3>
+      <form id="newsForm"><input type="email" required placeholder="La tua email" data-k-ph="club.ph" aria-label="Email"><button class="btn"><span data-k="club.btn">Voglio il codice</span><span class="bi"><svg class="ico" data-ico="arrow"></svg></span></button></form>
+      <small data-k="club.small">Novità e ribassi prima di tutti. Ti cancelli quando vuoi.</small>
+    </div>
+    <div class="perks" id="perks"></div>
+  </div>
+</section>
+</main>
+<div id="shell-bottom"></div>
+
+<!-- prenotazione tour -->
+<div class="modal" id="tourModal" role="dialog" aria-label="Prenota lo Shopping Tour">
+  <div class="scrim on" data-close></div>
+  <div class="box">
+    <button class="ic x" data-close aria-label="Chiudi"><svg class="ico" data-ico="x"></svg></button>
+    <span class="eyebrow">Shopping Tour</span>
+    <h3 data-k="tm.t">Prenota il tuo tour a Roma</h3>
+    <form id="tourForm">
+      <label><span data-k="tm.from">Dove ti prendiamo</span><select id="tmFrom"></select></label>
+      <label><span data-k="tm.date">Data</span><input type="date" required></label>
+      <label><span data-k="tm.ppl">Persone</span><select><option>1</option><option>2</option><option>3</option><option>4</option><option>5+</option></select></label>
+      <label><span data-k="tm.time">Ora di arrivo</span><input type="time"></label>
+      <div class="full chipset" id="tmShops"></div>
+      <label class="full"><span data-k="tm.name">Nome</span><input required autocomplete="name"></label>
+      <label class="full"><span data-k="tm.tel">Telefono / WhatsApp</span><input type="tel" required autocomplete="tel"></label>
+      <button class="btn rosa"><span data-k="tm.send">Invia la richiesta</span><span class="bi"><svg class="ico" data-ico="arrow"></svg></span></button>
+    </form>
+  </div>
+</div>
+
+<script src="js/foto.js?v=1794434270"></script>
+<script src="js/db.js?v=1794434270"></script>
+<script src="js/core.js?v=1794434270"></script>
+<script src="js/fx.js?v=1794434270"></script>
+<script src="js/home.js?v=1794434270"></script>
+</body>
+</html>
