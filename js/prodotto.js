@@ -9,9 +9,9 @@ const pics = (w = 900) => Array.from({ length: N_PHOTO }, (_, k) => photo(m, ci 
 
 /* ---------- galleria ---------- */
 function renderGallery() {
-  const ps = pics(1100), th = pics(160);
+  const ps = pics(900), th = pics(160);
   const badges = (m.off ? `<span class="badge">−${m.off}%</span>` : '') + (m.isNew ? `<span class="badge new">${tr('Nuovo', 'New')}</span>` : '');
-  $('#stage').innerHTML = `<div class="badges">${badges}</div>` + ps.map((s, k) => `<div class="slide ${k === gi ? 'on' : ''}"><img src="${s}" alt="${esc(m.nome)} – ${k + 1}" ${k ? 'loading="lazy"' : ''}></div>`).join('');
+  $('#stage').innerHTML = `<div class="badges">${badges}</div>` + ps.map((s, k) => `<div class="slide ${k === gi ? 'on' : ''}" style="background-image:url('${th[k]}')"><img src="${s}" onload="this.classList.add('ok')" alt="${esc(m.nome)} – ${k + 1}" ${k ? 'loading="lazy"' : ''}></div>`).join('');
   $('#thumbs').innerHTML = th.map((s, k) => `<button class="${k === gi ? 'on' : ''}" data-g="${k}" aria-label="Foto ${k + 1}"><img src="${s}" alt=""></button>`).join('');
   $('#gdots').innerHTML = ps.map((_, k) => `<i class="${k === 0 ? 'on' : ''}"></i>`).join('');
   if (mobile()) $('#stage').scrollTo({ left: 0 });

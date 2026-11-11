@@ -1,6 +1,6 @@
 /* Foto campione (Unsplash, licenza libera anche commerciale). Verranno sostituite dalle foto vere caricate dall'admin. */
 window.FOTO = (() => {
-  const U = (id, w = 640) => `https://images.unsplash.com/photo-${id}?auto=format&fit=crop&w=${w}&h=${Math.round(w * 1.25)}&q=70`;
+  const U = (id, w = 640) => `https://images.unsplash.com/photo-${id}?auto=format&fit=crop&w=${w}&h=${Math.round(w * 1.25)}&q=65`;
   const cat = {
     maglieria: ['1574201635302-388dd92a4c3f', '1580331451062-99ff652288d7', '1641642231157-0849081598a2', '1589359425603-dfe010cf3ffa', '1773747310662-e7cc9e681226', '1587999882859-34b3f313df77'],
     jeans: ['1598554747436-c9293d6a588f', '1602293589930-45aad59ba3ab', '1762395271659-9465152c7e72', '1475178626620-a4d074967452', '1715758890151-2c15d5d482aa'],

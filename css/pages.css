@@ -189,3 +189,10 @@ header.top.solid{background:rgba(17,10,13,.82);backdrop-filter:blur(18px);-webki
 @media (max-width:900px){.prod{grid-template-columns:minmax(0,1fr)}}
 @media (max-width:640px){.buy .circ{width:50px;height:50px}.buy .btn{font-size:10.5px;letter-spacing:.1em}}
 .toast{transform:translate(-50%,calc(100% + 140px))}.toast.on{transform:translate(-50%,0)}
+
+/* la miniatura sfumata fa da anteprima mentre la foto grande carica */
+.stagewrap .slide{background-size:cover;background-position:center}
+.stagewrap .slide img{opacity:0;transition:opacity .6s,transform .5s var(--ease)}
+.stagewrap .slide img.ok{opacity:1}
+.stagewrap .slide::before{content:"";position:absolute;inset:0;backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);pointer-events:none}
+.stagewrap .slide img{position:relative;z-index:1}
